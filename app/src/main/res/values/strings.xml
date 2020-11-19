@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ControlServer</string>
+    <string name="connect_num">当前连接数:0</string>
+    <string name="button_click_hint">点击开始，再次点击结束</string>
+    <string name="button_touch_hint">长按录制</string>
+    <string name="button_start">开始</string>
+    <string name="button_end">结束</string>
+    <string name="button_ahead">下一个</string>
+    <string name="button_back">返回上一个</string>
+    <string name="current_ip">当前ip是:</string>
+    <string name="id_hint">id是:</string>
+    <string name="button_id">设置id</string>
+</resources>
